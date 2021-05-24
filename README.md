@@ -1,2 +1,2 @@
-# smoke-detection-using-DNN
+# SMOKE-detection-using-DNN
 Smoke detection using satellite imagery.
